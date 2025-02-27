@@ -80,7 +80,7 @@ Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTIN
 
 ## 📧 Contact
 
-For any inquiries, please contact us at [email@example.com](mailto:email@example.com).
+For any inquiries, please contact us at [email@example.com](adityadev21@gmail.com).
 
 Happy Coding! 😊
 
